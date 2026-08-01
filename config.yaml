@@ -1,0 +1,10 @@
+credentials:
+  usernames: {}
+
+cookie:
+  name: gpa_calculator_cookie
+  key: dəyiş_bunu_random_uzun_metnle_2026
+  expiry_days: 30
+
+pre-authorized:
+  emails: []
