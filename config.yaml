@@ -3,7 +3,7 @@ credentials:
 
 cookie:
   name: gpa_calculator_cookie
-  key: dəyiş_bunu_random_uzun_metnle_2026
+  key: a955c91fcf7be9fa5c71c1a633f1a431069f9320b8f2d953fe2d24d8b67e5969
   expiry_days: 30
 
 pre-authorized:
